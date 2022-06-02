@@ -11,14 +11,20 @@ Idendify trends and insights related to project category, subcategory, launch da
 Data analyzed to identify trends in a success rate of theater category with respect to launch dates and campaing goals.
 
 ### Analysis of Outcomes Based on Launch Date
-Relationship between Theater Outcomes and Campaign Launch Date
 
-![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
+<figure>
+    <img src="/Resources/Theater_Outcomes_vs_Launch.png" width="600" height="400"
+         alt="Theater_Outcomes_vs_Launch">
+    <figcaption>Relationship between Theater Outcomes and Campaign Launch Date.</figcaption>
+</figure>
 
 ### Analysis of Outcomes Based on Goals
-Relationship between Theater-Plays Outcomes and Campaign Goals.
 
-![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
+<figure>
+    <img src="/Resources/Outcomes_vs_Goals.png" width="600" height="400"
+         alt="Theater_Plays_Outcomes_vs_Goals">
+    <figcaption>Relationship between Theater-Plays Outcomes and Campaign Goals.</figcaption>
+</figure>
 
 ### Challenges and Difficulties Encountered
 Challenges to understand the data set. It was helpful to read background and understand the purpose of the analysis.
