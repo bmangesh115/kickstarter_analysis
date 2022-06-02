@@ -33,17 +33,24 @@ Challenges to understand the data set. It was helpful to read background and und
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-For the theater category launch date played key role in the final outcome. 
-Campaigns launched in the months of May and June had a high success rate. Campaigns launched in the month of December had a lowest success rate.
+    For the theater category launch date played key role in the final outcome.  
+    Campaigns launched in the months of May and June had a high success rate.   
+    Campaigns launched in the month of December had a lowest success rate.
 
 - What can you conclude about the Outcomes based on Goals?
 
-Majority of the projects in the Theater-Plays category had goals of less than $10000. Success rate was >70% for projects with campaign gols of <$5000. 
+    Majority of the projects in the Theater-Plays category had goals of less than $10000.   
+    Success rate was >70% for projects with campaign gols of <$5000.   
 
 - What are some limitations of this dataset?
 
-The dataset does not provide insight into background of donors and specific regions within country. It may help to target spefic donors in specific regions within country. It might also helpful to further subcategorize plays based on genre to get insight into if particular genre of plays a had high success rate.
+    The dataset does not provide insight into background of donors and specific regions within country.   
+    It may help to target spefic donors in specific regions within country.   
+    It might also helpful to further subcategorize plays based on genre to get insight into if particular genre of plays a had high success rate.  
 
 - What are some other possible tables and/or graphs that we could create?
 
-Relationship between average donations, donors count and project outcomes. It might provide insight if successful campaigns had higher donors count or higher average donations or both. Relationship between category, launch year and success rate. It might provide insight into if any category has increasing or decreasing success rate trend over years.
+    Relationship between average donations, donors count and project outcomes.   
+    It might provide insight if successful campaigns had higher donors count or higher average donations or both.   
+    Relationship between category, launch year and success rate.   
+    It might provide insight into if any category has increasing or decreasing success rate trend over years.   
