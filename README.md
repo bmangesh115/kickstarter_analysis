@@ -5,10 +5,10 @@
 Data analysis of the crowdfunding projects to be successful in its campaigns.
 
 ### Purpose
-Idendify trends and insights related to project category, subcategory, launch date and goal. Focusing on theater category.
+Identify trends and insights related to project category, subcategory, launch date and goal. Focusing on theater category.
 
 ## Analysis and Challenges
-Data analyzed to identify trends in a success rate of theater category with respect to launch dates and campaing goals.
+Data analyzed to identify trends in a success rate of theater category with respect to launch dates and campaign goals.
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -40,13 +40,13 @@ Challenges to understand the data set. It was helpful to read background and und
 - What can you conclude about the Outcomes based on Goals?
 
     Majority of the projects in the Theater-Plays category had goals of less than $10000.   
-    Success rate was >70% for projects with campaign gols of <$5000.   
+    Success rate was >70% for projects with campaign goal of <$5000.   
 
 - What are some limitations of this dataset?
 
     The dataset does not provide insight into background of donors and specific regions within country.   
-    It may help to target spefic donors in specific regions within country.   
-    It might also helpful to further subcategorize plays based on genre to get insight into if particular genre of plays a had high success rate.  
+    It may help to target specific donors in specific regions within country.   
+    Also it might be helpful to further subcategorize plays based on genre to get insight into if particular genre of plays a had high success rate.  
 
 - What are some other possible tables and/or graphs that we could create?
 
